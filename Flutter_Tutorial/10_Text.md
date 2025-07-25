@@ -6,7 +6,7 @@ Here’s a **complete and detailed explanation of Flutter's text styling system*
 * 🔠 Using the Google Fonts package
 
 
-````markdown
+
 # 🅰️ Flutter Text, Fonts & Typography – Full Guide
 
 In Flutter, **text is a first-class citizen**. It supports rich typography with customizable fonts, weights, styles, and spacing. This guide explores how to use **custom fonts**, **package fonts**, and the **Google Fonts package** for professional and beautiful text design.
@@ -17,7 +17,7 @@ In Flutter, **text is a first-class citizen**. It supports rich typography with 
 
 ### ✍️ Basic Text Styling
 
-```dart
+### dart
 Text(
   'Hello Flutter!',
   style: TextStyle(
@@ -26,7 +26,7 @@ Text(
     color: Colors.indigo,
   ),
 )
-````
+
 
 ### 🔤 Font Weight & Style
 
