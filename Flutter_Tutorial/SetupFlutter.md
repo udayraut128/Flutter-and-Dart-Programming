@@ -2,7 +2,7 @@ Here's a `README.md` file that explains **how to set up Flutter on all major pla
 
 ---
 
-````markdown
+
 # 🚀 Flutter Setup Guide (Windows, macOS, Linux)
 
 This guide walks you through setting up Flutter on **Windows**, **macOS**, and **Linux** platforms.
@@ -29,7 +29,6 @@ This guide walks you through setting up Flutter on **Windows**, **macOS**, and *
 ```bash
 # Example (assuming C drive):
 Extract to: C:\flutter
-````
 
 * Add `C:\flutter\bin` to System **Environment Variables > Path**
 
