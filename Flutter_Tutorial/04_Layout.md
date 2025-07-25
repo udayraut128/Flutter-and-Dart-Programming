@@ -34,7 +34,6 @@ A **layout** in Flutter defines **how widgets are arranged** on the screen. Flut
 ## 📐 Visual Layout Concepts
 
 ```
-
 Column (vertical layout)
 ├── Row (horizontal layout)
 │   ├── Icon
@@ -42,7 +41,7 @@ Column (vertical layout)
 ├── Container
 └── Button
 
-```
+``
 
 This shows how nested layout widgets organize child widgets.
 
@@ -62,13 +61,14 @@ We’ll build a simple layout that looks like this:
 \|  \[Contact Me Button] |
 --------------------------
 
-````
+```
 
 ---
 
 ### ✅ Step 1: Create Basic Layout
 
-```dart
+### dart
+```
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyLayoutApp());
@@ -84,7 +84,7 @@ class MyLayoutApp extends StatelessWidget {
     );
   }
 }
-````
+```
 
 ---
 

@@ -2,7 +2,7 @@ Here’s a **detailed explanation of the Flutter Widget Catalog**—organized by
 
 ---
 
-````markdown
+
 # 📚 Flutter Widget Catalog (Detailed)
 
 In Flutter, **everything is a widget**—text, layout, animation, input, and even the app itself. Widgets form the building blocks of a Flutter app's user interface.
@@ -39,7 +39,7 @@ Column(
     )
   ],
 )
-````
+```
 
 ---
 

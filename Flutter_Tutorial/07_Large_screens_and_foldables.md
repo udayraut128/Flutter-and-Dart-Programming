@@ -11,7 +11,7 @@ Perfect for serious development and documentation use (README.md, tutorials, or 
 
 ---
 
-````markdown
+``
 # 📱🖥️ Flutter on Large Screens and Foldables – Complete Guide
 
 As mobile devices evolve, screens are no longer limited to just phones. Tablets, desktops, and **foldable devices** are now widely used. Flutter supports these platforms, but developers must build **adaptive and responsive layouts** for a great user experience.
@@ -43,7 +43,8 @@ As mobile devices evolve, screens are no longer limited to just phones. Tablets,
 
 Build **responsive UIs** based on screen width or orientation.
 
-```dart
+### dart
+```
 LayoutBuilder(
   builder: (context, constraints) {
     if (constraints.maxWidth > 800) {
@@ -53,7 +54,7 @@ LayoutBuilder(
     }
   },
 )
-````
+```
 
 ### ✅ 2. Use `Flex`, `Expanded`, `Spacer`, `Wrap`
 

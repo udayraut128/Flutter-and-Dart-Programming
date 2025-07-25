@@ -8,7 +8,7 @@ Perfect for understanding how to build **visually consistent, scalable, and mode
 
 
 
-````
+
 # 🎨 Flutter Design & Theming – Full Guide
 
 Creating a visually cohesive Flutter app means applying **consistent styles**. Flutter's theming system enables this using **Themes**, based on **Material Design**.
@@ -25,7 +25,8 @@ Themes allow you to define **reusable colors, fonts, shapes, paddings**, and mor
 
 You define the global app theme in `MaterialApp` using the `ThemeData` class.
 
-```dart
+### dart
+```
 MaterialApp(
   theme: ThemeData(
     primaryColor: Colors.deepPurple,
@@ -37,7 +38,7 @@ MaterialApp(
     buttonTheme: ButtonThemeData(buttonColor: Colors.deepPurple),
   ),
 )
-````
+```
 
 
 
@@ -45,8 +46,8 @@ MaterialApp(
 
 Access theme values anywhere with `Theme.of(context)`:
 
-```dart
-Text(
+### dart
+```Text(
   'Hello',
   style: Theme.of(context).textTheme.bodyLarge,
 )
@@ -56,7 +57,6 @@ Container(
 )
 ```
 
----
 
 ### 🎯 Benefits of Shared Theme
 
