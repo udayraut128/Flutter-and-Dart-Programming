@@ -18,6 +18,7 @@ In Flutter, **text is a first-class citizen**. It supports rich typography with 
 ### ✍️ Basic Text Styling
 
 ### dart
+```
 Text(
   'Hello Flutter!',
   style: TextStyle(
@@ -26,7 +27,7 @@ Text(
     color: Colors.indigo,
   ),
 )
-
+```
 
 ### 🔤 Font Weight & Style
 
