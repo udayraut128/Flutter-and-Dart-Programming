@@ -6,9 +6,9 @@ Here's a **detailed explanation** of **Design and Theming in Flutter**, focusing
 
 Perfect for understanding how to build **visually consistent, scalable, and modern-looking apps** in Flutter.
 
----
 
-````markdown
+
+````
 # 🎨 Flutter Design & Theming – Full Guide
 
 Creating a visually cohesive Flutter app means applying **consistent styles**. Flutter's theming system enables this using **Themes**, based on **Material Design**.
@@ -39,7 +39,7 @@ MaterialApp(
 )
 ````
 
----
+
 
 ### 📦 Using Theme Values
 
