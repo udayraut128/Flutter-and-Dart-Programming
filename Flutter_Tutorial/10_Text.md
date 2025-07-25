@@ -5,13 +5,13 @@ Here’s a **complete and detailed explanation of Flutter's text styling system*
 * 📦 Exporting fonts from packages
 * 🔠 Using the Google Fonts package
 
----
 
+````markdown
 # 🅰️ Flutter Text, Fonts & Typography – Full Guide
 
 In Flutter, **text is a first-class citizen**. It supports rich typography with customizable fonts, weights, styles, and spacing. This guide explores how to use **custom fonts**, **package fonts**, and the **Google Fonts package** for professional and beautiful text design.
 
----
+
 
 ## 1️⃣ Fonts and Typography in Flutter
 
@@ -26,7 +26,7 @@ Text(
     color: Colors.indigo,
   ),
 )
-
+````
 
 ### 🔤 Font Weight & Style
 
@@ -39,13 +39,13 @@ Text(
 | `wordSpacing`   | Adjusts spacing between words          |
 | `height`        | Line height (leading)                  |
 
----
+
 
 ## 2️⃣ Use a Custom Font in Flutter
 
 To use your own `.ttf` or `.otf` font files:
 
----
+
 
 ### 🪜 Step-by-Step: Add Custom Font
 
