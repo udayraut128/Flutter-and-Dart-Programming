@@ -29,7 +29,8 @@ Widgets are the **building blocks** of the Flutter UI. They can be:
 - **StatefulWidget** – Can update its state during its lifecycle.
 
 Example:
-```dart
+``
+dart
 Text('Hello, Flutter!')
 
 
