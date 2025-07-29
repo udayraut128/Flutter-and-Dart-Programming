@@ -2,7 +2,7 @@ Here’s a **detailed explanation of Layouts in Flutter**, including a complete 
 
 ---
 
-```markdown
+``
 # 🧱 Flutter Layouts – Introduction & Practical Guide
 
 ## 📘 What is a Layout in Flutter?
@@ -33,7 +33,7 @@ A **layout** in Flutter defines **how widgets are arranged** on the screen. Flut
 
 ## 📐 Visual Layout Concepts
 
-```
+``
 Column (vertical layout)
 ├── Row (horizontal layout)
 │   ├── Icon
