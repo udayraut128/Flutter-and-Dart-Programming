@@ -26,7 +26,7 @@ This guide walks you through setting up Flutter on **Windows**, **macOS**, and *
 - Download from [https://git-scm.com](https://git-scm.com)
 
 ### 2. ✅ Install Flutter SDK
-```bash
+``
 # Example (assuming C drive):
 Extract to: C:\flutter
 
