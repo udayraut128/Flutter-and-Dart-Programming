@@ -1,11 +1,3 @@
-Here’s a **complete and detailed explanation of Flutter's text styling system**, specifically focusing on:
-
-* 🆎 Fonts and Typography
-* 🧩 Using a custom font
-* 📦 Exporting fonts from packages
-* 🔠 Using the Google Fonts package
-
-
 
 # 🅰️ Flutter Text, Fonts & Typography – Full Guide
 
@@ -18,7 +10,7 @@ In Flutter, **text is a first-class citizen**. It supports rich typography with 
 ### ✍️ Basic Text Styling
 
 ### dart
-```
+```dart
 Text(
   'Hello Flutter!',
   style: TextStyle(
@@ -54,7 +46,7 @@ To use your own `.ttf` or `.otf` font files:
 
    * Place the font inside `assets/fonts/` folder (you can organize by family name).
 
-```
+```dart
 assets/
 └── fonts/
     ├── Roboto-Regular.ttf

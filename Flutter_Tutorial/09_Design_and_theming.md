@@ -1,12 +1,3 @@
-Here's a **detailed explanation** of **Design and Theming in Flutter**, focusing on:
-
-* 🌈 Sharing styles with themes
-* 🎨 Material Design
-* 🔁 Migrating to Material 3
-
-Perfect for understanding how to build **visually consistent, scalable, and modern-looking apps** in Flutter.
-
-
 
 
 # 🎨 Flutter Design & Theming – Full Guide
@@ -26,7 +17,7 @@ Themes allow you to define **reusable colors, fonts, shapes, paddings**, and mor
 You define the global app theme in `MaterialApp` using the `ThemeData` class.
 
 ### dart
-```
+```dart
 MaterialApp(
   theme: ThemeData(
     primaryColor: Colors.deepPurple,
@@ -47,7 +38,8 @@ MaterialApp(
 Access theme values anywhere with `Theme.of(context)`:
 
 ### dart
-```Text(
+```dart
+Text(
   'Hello',
   style: Theme.of(context).textTheme.bodyLarge,
 )

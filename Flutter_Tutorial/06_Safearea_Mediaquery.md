@@ -1,14 +1,8 @@
-Here's a **detailed explanation of `SafeArea` and `MediaQuery` in Flutter**, including:
 
-* What they are
-* Why they are used
-* How they differ
-* Practical examples
-* Best practices
 
 ---
 
-```markdown
+``
 # 📱 SafeArea vs MediaQuery in Flutter (In-Depth Guide)
 
 Flutter helps you build beautiful UIs, but to ensure that your content is **visible, accessible, and safe from overlapping system UI** (like notches, status bars, or keyboard), you must use tools like **`SafeArea`** and **`MediaQuery`**.
@@ -29,8 +23,8 @@ Flutter helps you build beautiful UIs, but to ensure that your content is **visi
 It ensures that your UI **doesn’t get hidden or clipped** under OS-level components.
 
 ### ✅ Syntax:
-### dart
-```
+
+```dart
 SafeArea(
   child: YourWidgetTree(),
 )
@@ -39,9 +33,8 @@ SafeArea(
 ---
 
 ### 🧪 Example:
-### dart
 
-```
+```dart
 SafeArea(
   child: Column(
     children: [

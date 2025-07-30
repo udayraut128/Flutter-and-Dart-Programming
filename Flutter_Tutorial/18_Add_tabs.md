@@ -1,4 +1,4 @@
-Adding **tabs** in a Flutter app is a common UI pattern used to allow users to quickly navigate between different views or sections. Flutter provides a flexible way to implement tabs using the `TabBar`, `TabBarView`, and `DefaultTabController` widgets.
+
 
 ---
 

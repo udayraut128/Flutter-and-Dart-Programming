@@ -67,8 +67,8 @@ We’ll build a simple layout that looks like this:
 
 ### ✅ Step 1: Create Basic Layout
 
-### dart
-```
+   
+```dart
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyLayoutApp());

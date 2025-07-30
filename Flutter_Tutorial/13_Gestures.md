@@ -1,4 +1,3 @@
-Here is a **detailed explanation of Flutter Gestures**, covering all the topics you mentioned:
 
 ---
 

@@ -1,13 +1,4 @@
-Here’s a detailed explanation of how to **design Flutter apps for large screens and foldable devices**, including:
 
-* Overview of large screens and foldables
-* Challenges
-* General strategies for layout
-* Best practices
-* Code examples
-* Tools and packages
-
-Perfect for serious development and documentation use (README.md, tutorials, or learning guides).
 
 ---
 
@@ -44,7 +35,7 @@ As mobile devices evolve, screens are no longer limited to just phones. Tablets,
 Build **responsive UIs** based on screen width or orientation.
 
 ### dart
-```
+```dart
 LayoutBuilder(
   builder: (context, constraints) {
     if (constraints.maxWidth > 800) {

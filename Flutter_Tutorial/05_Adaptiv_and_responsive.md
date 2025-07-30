@@ -1,14 +1,8 @@
-Here’s a detailed guide explaining **Adaptive and Responsive Design** in Flutter with:
 
-* A clear **overview**
-* The **difference** between adaptive and responsive
-* General **approaches and best practices**
-* **Examples and widgets**
-* Suitable for `README.md`, technical docs, or study material
 
 ---
 
-````markdown
+``
 # 📱 Adaptive & Responsive Design in Flutter (Overview & Guide)
 
 Modern apps must run on **multiple screen sizes** and **devices** — phones, tablets, foldables, desktops, and web. Flutter offers powerful tools to build **responsive** and **adaptive** user interfaces.

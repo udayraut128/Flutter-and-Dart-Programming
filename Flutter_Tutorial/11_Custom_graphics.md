@@ -1,4 +1,3 @@
-Here is a **complete and detailed explanation** of **Flutter Custom Graphics**, focusing specifically on:
 
 ---
 
