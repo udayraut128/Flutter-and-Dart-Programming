@@ -1,13 +1,3 @@
-Here’s a complete `README.md` file for your **Flutter & Dart Learning Repository**, which includes the following folders:
-
-* `dart_programming/` – Core Dart tutorials
-* `flutter_tutorial/` – Flutter widgets, layout, and concepts
-* `flutter_projects/` – Practical Flutter apps
-* `flutter_questions/` – Interview/Exam questions for Flutter
-
-This README gives a professional, structured overview of your repository:
-
----
 
 ````markdown
 # 🚀 Flutter & Dart Development Repository
