@@ -1,7 +1,3 @@
-Absolutely! Let's now dive into the **heart of Flutter development** — **Widgets**, specifically the two foundational types:
-
----
-
 # 🧱 5. Flutter Widgets
 
 ## ➤ StatelessWidget
