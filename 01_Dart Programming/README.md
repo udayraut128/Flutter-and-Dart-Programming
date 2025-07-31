@@ -1,8 +1,5 @@
 
 
----
-
-
 # Dart Programming Language 🐦
 
 Welcome to the Dart Programming Language repository! This repo is designed to help you learn Dart from beginner to advanced level, including syntax, data types, object-oriented programming, async programming, and Dart tools used in Flutter development.
@@ -81,8 +78,8 @@ If not installed, visit: [https://dart.dev/get-dart](https://dart.dev/get-dart)
 ## 🧠 How to Use This Repo
 
 ```bash
-git clone https://github.com/yourusername/dart-programming.git
-cd dart-programming
+git clone https://github.com/udayraut128/Flutter-and-Dart-Programming.git
+cd  Flutter-and-Dart-Programming
 ```
 
 Each folder corresponds to a topic and contains example `.dart` files with code and comments.
