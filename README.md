@@ -68,7 +68,7 @@ A collection of real-world **Flutter mobile apps**, each built with clean code, 
 - ✅ **To-Do App** – Task management with Firebase auth
 - 🌦️ **Weather App** – Weather data via API with modern UI
 - 👨‍💼 **Portfolio App** – Personal portfolio built with Flutter
-
+- 👨‍💼 **AND MORE...** –  Add new Projects Time to Time.
 ➡️ Each project includes setup instructions and source code.
 
 ---
@@ -98,8 +98,8 @@ Prepare for your **Flutter interviews and exams** with this curated collection o
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/flutter-dart-learning.git
-cd flutter-dart-learning
+git clone https://github.com/udayraut128/Flutter-and-Dart-Programming.git
+cd  Flutter-and-Dart-Programming
 ````
 
 2. Explore folders:
@@ -123,10 +123,15 @@ flutter run
 **Uday Raut**
 
 📱 **Portfolio**: [https://udayraut128.github.io/My-Portfolio](https://udayraut128.github.io/My-Portfolio)
+
 📱 **Portfolio 2**: [https://udayraut128.github.io/My-Portfolio-1](https://udayraut128.github.io/My-Portfolio-1)
+
 📷 **Instagram**: [https://instagram.com/udayraut128](https://instagram.com/udayraut128)
+
 💼 **LinkedIn**: [https://linkedin.com/in/udayraut128](https://linkedin.com/in/udayraut128)
+
 💻 **GitHub**: [https://github.com/udayraut128](https://github.com/udayraut128)
+
 🧠 **LeetCode**: [https://leetcode.com/udayraut128](https://leetcode.com/udayraut128)
 
 ---
